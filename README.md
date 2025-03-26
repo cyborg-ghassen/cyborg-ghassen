@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Ghassen Bougacha, and I'm a full-stack developer from Tunisia</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=cyborg-ghassen&theme=dark" height="150" alt="streak graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=cyborg-ghassen&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
 ###
